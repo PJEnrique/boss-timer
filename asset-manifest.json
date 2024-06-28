@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/boss-timer/static/css/main.faf9f52a.css",
+    "main.js": "/boss-timer/static/js/main.d1182e98.js",
+    "index.html": "/boss-timer/index.html",
+    "main.faf9f52a.css.map": "/boss-timer/static/css/main.faf9f52a.css.map",
+    "main.d1182e98.js.map": "/boss-timer/static/js/main.d1182e98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faf9f52a.css",
+    "static/js/main.d1182e98.js"
+  ]
+}
